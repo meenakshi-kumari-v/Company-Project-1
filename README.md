@@ -13,6 +13,15 @@ All shared code is generalized and stripped of any proprietary or sensitive info
 - ✅ React Native best practices
 - ✅ Navigation Methods
 
+## 🔔 Push Notification Integration
+
+This project includes a sample setup using:
+
+- `@react-native-firebase/messaging` for FCM push notifications
+- `@notifee/react-native` for displaying rich local notifications
+- React Native Navigation for screen management
+All sensitive information and app-specific screen names have been replaced with safe placeholders.
+  
 ## 🌐 API Integration
 
 This project demonstrates clean API integration using Axios with an MVP-inspired pattern.
