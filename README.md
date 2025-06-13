@@ -11,6 +11,14 @@ All shared code is generalized and stripped of any proprietary or sensitive info
 - ✅ React Native best practices
 - ✅ Navigation Methods
 
+## 🌐 API Integration
+
+This project demonstrates clean API integration using Axios with an MVP-inspired pattern.
+
+- API requests are handled in the `/api` service layer
+- Presenters abstract the business logic and communicate with screens
+- Error and loading states are managed in the UI layer
+  
 ## ⚙️ Tech Stack
 
 - React Native
