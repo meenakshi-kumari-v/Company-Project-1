@@ -1,6 +1,8 @@
 # Company-Project-1
 
-This repository contains components and utilities extracted and refactored from a React Native employee self-service application I developed as a company project.
+This repository contains components and utilities extracted and refactored from a React Native employee self-service application I developed as part of a company project.
+
+I was the sole React Native developer on the project and was responsible for building the application from scratch — including architecture, navigation, API integration, UI components, and state management.
 
 All shared code is generalized and stripped of any proprietary or sensitive information. This repo demonstrates the type of work I've done professionally.
 
