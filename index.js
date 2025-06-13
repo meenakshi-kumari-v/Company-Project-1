@@ -2,9 +2,7 @@
  * @format
  */
 import {Navigation} from 'react-native-navigation';
-import App from './App';
 import {registerScreens} from './src/config/routes';
-import SideMenu from './src/screens/SideMenu';
 import notifee, {AndroidImportance, EventType} from '@notifee/react-native';
 import {AppState} from 'react-native';
 import messaging from '@react-native-firebase/messaging';
